@@ -45,7 +45,7 @@ namespace SearchAlgorithmsLib.Searcher
             return null;
         }
 
-        // find the backtrace
+        // find the backtrace blabla
         public Solution<T> backTrace(State<T> goal)
         {
             List<State<T>> solution = new List<State<T>>();
